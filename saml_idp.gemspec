@@ -46,6 +46,7 @@ section of the README.
   s.add_dependency('activesupport', '>= 5.2')
   s.add_dependency('builder', '>= 3.0')
   s.add_dependency('nokogiri', '>= 1.6.2')
+  s.add_dependency('ostruct', '>= 0.6.0')
   s.add_dependency('xmlenc', '>= 0.7.1')
   s.add_dependency('rexml')
 
